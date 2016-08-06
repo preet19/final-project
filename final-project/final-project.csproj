@@ -180,6 +180,15 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\4k.jpg" />
+    <Content Include="Assets\asus g7.jpg" />
+    <Content Include="Assets\dell inspiron 15.jpg" />
+    <Content Include="Assets\hp yoga.png" />
+    <Content Include="Assets\lg android.jpg" />
+    <Content Include="Assets\nokia-mobile-phone.jpg" />
+    <Content Include="Assets\samsung galaxy s4.jpg" />
+    <Content Include="Assets\samsung.jpg" />
+    <Content Include="Assets\Weston-led-tv.jpg" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="favicon.ico" />
@@ -237,7 +246,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Assets\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
